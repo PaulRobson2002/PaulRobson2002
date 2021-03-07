@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulrobson2002&&theme=dark" alt="paulrobson2002" /></p>
 
-<p><img align = "Center" src = "https://github-readme-stats.vercel.app/api/wakatime?username=PaulR&theme=dark"/></p>
+#<p><img align = "Center" src = "https://github-readme-stats.vercel.app/api/wakatime?username=PaulR&theme=dark"/></p>

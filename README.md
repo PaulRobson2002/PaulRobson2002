@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/paulrobson2002" target="blank"><img src="https://img.shields.io/twitter/follow/paulrobson2002?logo=twitter&style=for-the-badge" alt="paulrobson2002" /></a> </p>
 
-- 📫 How to reach me **paul.robson2002@outlook.com**
+- 📫 How to reach me **paul.robson2002@outlook.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

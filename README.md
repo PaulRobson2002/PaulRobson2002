@@ -31,3 +31,7 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulrobson2002&theme=dark"" alt="paulrobson2002" /></p>
+
+  
+  
+  <figure><embed src="https://wakatime.com/share/@PaulR/a65a3f96-0bae-4316-b3a5-ca4edcb74a04.svg"></embed></figure>

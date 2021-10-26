@@ -34,4 +34,5 @@
 
   
   
- <img src="https://wakatime.com/share/@PaulR/a65a3f96-0bae-4316-b3a5-ca4edcb74a04.svg"/>
+.. image:: https://wakatime.com/share/@PaulR/90128ef9-338f-4d2a-babe-17875cb9883c.png
+    :target: https://wakatime.com/

@@ -33,5 +33,4 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paulrobson2002&theme=dark" alt="paulrobson2002"/></p>
 
 
-  
-<figure><embed src="https://wakatime.com/share/@PaulR/d5ceeaa5-ad6d-4d2b-8962-e919bac57b50.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@PaulR/d5ceeaa5-ad6d-4d2b-8962-e919bac57b50.svg"></embed>

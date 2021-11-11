@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Samsara](https://store.steampowered.com/app/1683570/Sasra/)
 
-- 🌱 I’m currently learning **Boot start & angular**
+- 🌱 I’m currently learning **Bootstrap & angular**
 
 - 📫 How to reach me **paul.robson2002@outlook.com**
 
